@@ -1,0 +1,6 @@
+[submodule "vendor/Autoload"]
+	path = vendor/Autoload
+	url = git@github.com:versionable/Autoload.git
+[submodule "vendor/Prospect"]
+	path = vendor/Prospect
+	url = https://github.com/versionable/Prospect.git
